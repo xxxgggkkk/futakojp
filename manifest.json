@@ -1,0 +1,19 @@
+{
+  "name": "通関士 Study — 2027 电子教科书",
+  "short_name": "通関士 Study",
+  "description": "自选章节、双语讲义、法令原文、演习与间隔复习",
+  "lang": "ja",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f3",
+  "theme_color": "#153337",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
